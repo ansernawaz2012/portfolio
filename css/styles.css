@@ -73,19 +73,34 @@ padding: 100px auto;
   left: 300px;
 }
 
-.computer {
+.dice {
   border-radius: 100%;
   width:25%;
   float: left;
   margin-right: 2rem;
 }
 
-.kitten {
-  border-radius: 100%;
+.drumkit {
+  /* border-radius: 100%; */
   width:25%;
   float: right;
   margin-left: 2rem;
 }
+
+.todolist {
+  border-radius: 100%;
+  width:25%;
+  float: left;
+  margin-right: 2rem;
+}
+
+.clock {
+  /* border-radius: 100%; */
+  width:25%;
+  float: right;
+  margin-left: 2rem;
+}
+
 
 
 .skill-row
@@ -121,4 +136,9 @@ line-height: 2;
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
+}
+
+.image {
+  width:13rem;
+  height:13rem;
 }
