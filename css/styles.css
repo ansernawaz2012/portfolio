@@ -26,8 +26,9 @@ h3 {
   color: #11999E;
 }
 
-div {
-
+.projects {
+      font-weight: strong;
+      text-shadow: 3px 3px grey;
 }
 
 p {
@@ -101,13 +102,22 @@ padding: 100px auto;
   margin-left: 2rem;
 }
 
+.scoreboard {
+  /* border-radius: 100%; */
+  width:25%;
+  float: left;
+  margin-right: 2rem;
+  
+
+}
+
 
 
 .skill-row
 {
 width: 50%;
 margin: 100px auto 100px auto;
-text-align: left;
+/* text-align: left; */
 line-height: 2;
 }
 
