@@ -85,7 +85,14 @@ padding: 100px auto;
   margin-right: 2rem;
 }
 
-.drumkit {
+/* .drumkit {
+   border-radius: 100%;
+  width:25%;
+  float: right;
+  margin-left: 2rem;
+}  */
+
+.calculator {
   /* border-radius: 100%; */
   width:25%;
   float: right;
@@ -110,7 +117,7 @@ padding: 100px auto;
   /* border-radius: 100%; */
   width:25%;
   float: left;
-  margin-right: 2rem;
+  margin-right: 3rem;
   
 
 }
